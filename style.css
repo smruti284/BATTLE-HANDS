@@ -71,17 +71,17 @@ img {
 @media (max-width: 600px) {
     .choices {
         flex-direction: column;
-        gap: 1.5rem;
+        gap: 1rem;
     }
 
     .choice1 {
-        height: 120px;
-        width: 120px;
+        height: 100px;
+        width: 100px;
     }
 
     .choice1 img {
-        height: 100px;
-        width: 100px;
+        height: 80px;
+        width: 80px;
     }
 
     .score {
